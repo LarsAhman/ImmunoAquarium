@@ -1,0 +1,23 @@
+-----------
+hmmm:
+
+if intruder big enough, becomes juggernaut, (not afraid of whitecells)
+
+
+-----------
+yes:
++smaller whiteCell = faster, but slower damage
++bigger whiteCell = slower, but faster damage
++cells reproduce and die
+
++intruders run away
++intruders try to damage the health system
+
++intruders, larger = damage faster, more hp
++smaller = move faster
+
+intruders regenerate if not touching white cells
+killing a defence makes the intruder rampage against white cells and immune to damage for x seconds
+defences supply HP for whiteCells
+
+a new defence spawns every 5th kill
